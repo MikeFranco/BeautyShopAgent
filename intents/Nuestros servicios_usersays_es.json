@@ -1,0 +1,68 @@
+[
+  {
+    "id": "c39c66c9-9c97-4f20-8f9f-69f0d45ebc24",
+    "data": [
+      {
+        "text": "¿Qué hacen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aae7a985-b605-410a-bb4d-6010237dc3c9",
+    "data": [
+      {
+        "text": "¿Qué me puedo hacer con ustedes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ccd2c65-12f3-4fb5-aed4-7c7f5986ec1e",
+    "data": [
+      {
+        "text": "¿Cuáles son sus ",
+        "userDefined": false
+      },
+      {
+        "text": "servicios",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad252389-3361-4c2c-8da3-83a8221dc5b2",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "servicios",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tienen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

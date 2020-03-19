@@ -1,0 +1,40 @@
+{
+  "id": "58961b6a-0882-4607-8f94-50d1cd5ba1e6",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "¡Hola!, ¿En qué te puedo ayudar el día de hoy?",
+            "¡Hola, buen día!, ¿En qué te puedo ayudar el día de hoy?",
+            "¡Qué tal!, ¿En qué te puedo ayudar el día de hoy?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

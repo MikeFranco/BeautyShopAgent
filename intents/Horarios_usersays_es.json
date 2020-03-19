@@ -1,0 +1,47 @@
+[
+  {
+    "id": "03994a41-a145-4b88-9e31-51cffef95c0b",
+    "data": [
+      {
+        "text": "¿Qué días abren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aefa6ace-a559-4b63-aa74-6806e1c7b40d",
+    "data": [
+      {
+        "text": "¿A qué ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a24148c7-6df1-4d17-a6a4-7bb691dc50b3",
+    "data": [
+      {
+        "text": "¿Qué horarios tienen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

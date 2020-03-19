@@ -1,0 +1,32 @@
+[
+  {
+    "value": "corte de cabello",
+    "synonyms": [
+      "corte de cabello",
+      "corte",
+      "corte de pelo",
+      "despunte",
+      "cortar el pelo",
+      "cortar el cabello"
+    ]
+  },
+  {
+    "value": "manicure",
+    "synonyms": [
+      "manicure",
+      "manicura",
+      "uñas",
+      "hacerme manos",
+      "manos"
+    ]
+  },
+  {
+    "value": "pedicura",
+    "synonyms": [
+      "pedicura",
+      "pedicure",
+      "pies",
+      "hacerme pies"
+    ]
+  }
+]

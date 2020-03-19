@@ -1,0 +1,71 @@
+[
+  {
+    "id": "e396fdbc-b8ea-4771-81a7-f084742a8a1d",
+    "data": [
+      {
+        "text": "¿Cuál ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " su ubicación?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ed71364-b581-4c73-aa58-6024baff3c33",
+    "data": [
+      {
+        "text": "¿En qué parte están?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13023ea1-b872-47f5-8bb4-ea97fa450c57",
+    "data": [
+      {
+        "text": "¿Dónde se ubican?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57f7493a-6908-46d0-9ebe-098f7a34e1dd",
+    "data": [
+      {
+        "text": "¿En dónde están?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38dcac5b-7143-42a6-8759-8540f782d180",
+    "data": [
+      {
+        "text": "¿En dónde se encuentran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

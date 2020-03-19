@@ -1,0 +1,439 @@
+[
+  {
+    "id": "df5ec125-890b-46f7-9aec-19a43c3bbc8c",
+    "data": [
+      {
+        "text": "Hola, quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3230ef8-fb3c-432f-9c40-4d0ed84f1596",
+    "data": [
+      {
+        "text": "Hola, quiero hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fcfbcbb-dae9-4e25-bf31-caadfc446d27",
+    "data": [
+      {
+        "text": "Quiero hacerme ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "manicure",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "corte",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22bc85cb-f47f-4cf8-9347-bf6e6ba24786",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "manicure",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "pedicure",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e811175d-bb13-41fc-8ce3-00bc6aafff55",
+    "data": [
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "3 de la tarde",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3777906-dc2d-4290-b1c9-1af911bc64be",
+    "data": [
+      {
+        "text": "¿Me pueden ",
+        "userDefined": false
+      },
+      {
+        "text": "cortar el cabello",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9762c9d-4355-408f-aa87-2e7b487e37d2",
+    "data": [
+      {
+        "text": "Te escribo para reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "seis de la tarde",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85c4ea81-70f2-4928-9170-b2462133e8ab",
+    "data": [
+      {
+        "text": "Mi celular es ",
+        "userDefined": false
+      },
+      {
+        "text": "5528595827",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b4af658-6b02-49af-b902-d81623da25e4",
+    "data": [
+      {
+        "text": "5528595827",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "373c130c-599c-414e-815c-68c6188fcd4a",
+    "data": [
+      {
+        "text": "Ricardo",
+        "alias": "person",
+        "meta": "@sys.person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6aff3721-0f41-4710-92e9-5045d66cd455",
+    "data": [
+      {
+        "text": "Soy ",
+        "userDefined": false
+      },
+      {
+        "text": "Mónica",
+        "alias": "person",
+        "meta": "@sys.person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d1d8265-ede4-44b5-809c-feecb8b2b671",
+    "data": [
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre es ",
+        "userDefined": false
+      },
+      {
+        "text": "Miguel Angel",
+        "alias": "person",
+        "meta": "@sys.person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c283a652-0eae-4828-bbc0-b399558e3483",
+    "data": [
+      {
+        "text": "Necesito un ",
+        "userDefined": false
+      },
+      {
+        "text": "corte",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿Tienes disponible para ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e67c9d60-9c68-42d4-b0d3-d1d08a22dec7",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "corte",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccb8b101-1f1a-4c66-84ac-9862e9ee7cb3",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservación para ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pedicure",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70a8e6e4-50d4-4155-9dea-ca204ad534c6",
+    "data": [
+      {
+        "text": "Hola, quiero hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservación para un ",
+        "userDefined": false
+      },
+      {
+        "text": "corte de cabello",
+        "alias": "type",
+        "meta": "@type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11514765-a829-4444-9b65-b5f72df8ea97",
+    "data": [
+      {
+        "text": "Hola, te escribo para ver si tienes disponible ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a las 15",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

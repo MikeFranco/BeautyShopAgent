@@ -1,0 +1,150 @@
+{
+  "id": "300432be-eadd-4eda-aa05-c605ec03a5e5",
+  "name": "agendarCita",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c1802a46-288f-4d03-b729-c31f9d874fcd",
+          "required": true,
+          "dataType": "@sys.person",
+          "name": "person",
+          "value": "$person",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿A nombre de quién hago la reservación?"
+            },
+            {
+              "lang": "es",
+              "value": "¿A qué nombre quedará la reservación?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Me proporcionas el nombre de la persona a la que quedará la reservación?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2e771c52-3210-4cc8-a405-d71d6654b1a0",
+          "required": true,
+          "dataType": "@type",
+          "name": "type",
+          "value": "$type",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Qué servicio sería?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Qué te quieres hacer?"
+            },
+            {
+              "lang": "es",
+              "value": "Claro, tenemos disponibles: corte de cabello, manicure y pedicure"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "e3968bf3-7d25-4884-ba52-0066e226caa2",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Qué día sería?"
+            },
+            {
+              "lang": "es",
+              "value": "Con gusto, ¿Qué día te queda mejor?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Para cuándo quieres tu reservación?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Qué día quieres tu reservación?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "047d0a41-886a-41e2-ac69-88e029ffde47",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿A qué hora sería la cita de $person.name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a71c8745-64ba-4a39-9fc5-0085f6b91a98",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Para contactarte y asegurarte tu servicio, ¿Me puedes proporcionar un número de contacto?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Listo, quedó agendada la cita de $person.name para $date-time] a las $time para el servicio de $type"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
